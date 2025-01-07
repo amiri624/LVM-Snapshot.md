@@ -171,4 +171,3 @@ mkdir /mnt/snapshot
 ```bash
 mount /dev/myvg-guest/sanpdemo/mnt/snapshot
 ```
-~~meisam~~
