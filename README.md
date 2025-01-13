@@ -92,7 +92,6 @@ lvs
 ```
 ### Output 
 
-
   LV        VG        Attr       LSize   Pool Origin Data%  Meta%  Move Log Cpy%Sync Convert
   lv3       myvg      -wi-a-----   3.00g                        
   my-lv1    myvg      owi-a-s---  30.00g                        
@@ -124,7 +123,7 @@ lvdisplay myvg/my-lv1
   Block device           252:0
 
 ```bash
-lsblk
+$ lsblk
 ```
 ### Output
 
@@ -166,8 +165,8 @@ sdc                 8:32   0    50G  0 disk
 sr0                11:0    1  1024M  0 rom
 
 ```bash
-mkdir /mnt/snapshot
+$ mkdir /mnt/snapshot
 ```
 ```bash
-mount /dev/myvg-guest/sanpdemo/mnt/snapshot
+$ mount /dev/myvg-guest/sanpdemo/mnt/snapshot
 ```
