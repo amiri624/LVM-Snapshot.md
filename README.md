@@ -60,7 +60,7 @@ cp -a /etc/vim .
 ```bash
 ls -lhR
 ```
-### Output 
+# Output 
   .:
   total 4.0K
   drwxr-xr-x 2 root root 4.0K Nov  5 15:35 vim
