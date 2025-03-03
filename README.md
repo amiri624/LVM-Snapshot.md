@@ -15,7 +15,6 @@ lvs
 ```
 # L V M
 ### creating a snapshot
-
 ```bash
 mkdir -p /mnt/guest
 ```
