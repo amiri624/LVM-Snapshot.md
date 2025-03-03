@@ -46,7 +46,6 @@ mount -a
 ### Output 
 total 4.0K
 drwx------ 3 root root 4.0K Nov  5 15:38 snap
-
 # ERROR IS GONE.
 
 ```bash
