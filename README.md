@@ -60,7 +60,6 @@ ls -lhR
   .:
   total 4.0K
   drwxr-xr-x 2 root root 4.0K Nov  5 15:35 vim
-
   ./vim:
   total 8.0K
   -rw-r--r-- 1 root root 2.6K Aug 27 14:26 vimrc
