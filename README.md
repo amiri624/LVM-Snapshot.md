@@ -74,7 +74,6 @@ lvcreate --size 6g --name sanpdemo --snapshot myvg/my-lv1
 ### Output 
 
 Logical volume "sanpdemo" created.
-
 ```bash
 lvscan
 ```
