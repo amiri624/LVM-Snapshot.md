@@ -66,7 +66,6 @@ ls -lhR
   -rw-r--r-- 1 root root 2.6K Aug 27 14:26 vimrc
   -rw-r--r-- 1 root root  662 Aug 27 14:26 vimrc.tiny
   root@meisam:/mnt/guest# vgs
-
 ```bash
 vgs
 ```
